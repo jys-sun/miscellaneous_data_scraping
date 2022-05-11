@@ -1,1 +1,1 @@
-# miscellaneous_data_scraping
+# Example scripts for using GitHubAPI for data collection
