@@ -14,7 +14,7 @@ an example of collecting event timelines for a given list of issues and reposito
 ## githubSettings.py 
 Set up the tokens needed for using GitHub API. Please generate the tokens via your GitHub account as needed
 
-##repo_issues.ipynb
+## repo_issues.ipynb
 An example of collecting issues for a given repository. (repo slugs need to be provided)
 
 ## githubSearch.py
