@@ -7,7 +7,7 @@ strudel scraper (https://cmustrudel.github.io/strudel.scraper/)
 ```bash
     pip install --user --upgrade strudel.scraper
 
-
+```
 ## GithubAPI_Example_IssueTimeline.py
 an example of collecting event timelines for a given list of issues and repositories.(issue ids and reposlugs need to be provided)
 
